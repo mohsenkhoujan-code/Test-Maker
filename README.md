@@ -13,11 +13,11 @@
 5. ایجاد آزمون تشریحی، تستی و صحیح/غلط
 
 ## مشخصات
-زبان: Python
-چارچوب: PyQt5
-سیستم عامل: Cross-platform
-نویسنده: Mohsen khayyat
-نیاز به اینترنت: False
+زبان: Python  
+چارچوب: PyQt5  
+سیستم عامل: Cross-platform  
+نویسنده: Mohsen khayyat  
+نیاز به اینترنت: False  
 
 ## مشکلات
 1. پشتیبانی نکردن از فارسی
