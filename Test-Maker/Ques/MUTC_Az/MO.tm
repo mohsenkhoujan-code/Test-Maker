@@ -1,0 +1,23 @@
+#Name:MO;
+%In:coa,,enter coa:;
+;
+=coas<-Normal;
+;
+=coll<-{Italic,Bold,Underline};
+!ifcollections[coa~in~coll];
+C>>=coas<-coa;
+;
+#MO;Qsize:40;
+#MO;Qfont:B titr;
+#MO;Qcoarse:coas;
+;
+#Type:Test;
+;
+#Scorr:1;
+#Que:Hello?;
+#Blad:12--23--34--45--45;
+#Img: --0--0--0--0;
+#Next:;
+;
+#Run:;
+#Make:

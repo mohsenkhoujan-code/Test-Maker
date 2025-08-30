@@ -1,0 +1,18 @@
+<qe=1
+%type:Anatomical
+background = Black
+foreground = White
+font:Terminal
+qe:do you human?
+scorr:2
+{
+	ans:yes
+}
+<qe=2
+background = Black
+foreground = White
+font:Terminal
+qe:do you man?
+{
+	ans:no
+}
